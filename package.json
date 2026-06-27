@@ -1,0 +1,8 @@
+{
+  "name": "ct-express-pool",
+  "version": "1.0.0",
+  "description": "CT Express Pool Service - Durham, NY",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
